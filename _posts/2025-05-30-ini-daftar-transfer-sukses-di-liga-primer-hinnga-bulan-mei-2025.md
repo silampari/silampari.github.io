@@ -4,7 +4,7 @@ image: https://i0.wp.com/ws.aproinov.com/wp-content/uploads/2025/05/Cover-Ini-Da
 author: techidn
 featured: true
 description: Daftar transfer tersukses Liga Primer hingga Mei 2025 — siapa yang jadi rekrutan terbaik musim ini?
-title: Ini Daftar Transfer Sukses di Liga Primer Hinnga Bulan Mei 2025!
+title: Ini Daftar Transfer Sukses di Liga Primer Hingga Bulan Mei 2025!
 cover:
    title: Ini Daftar Transfer Sukses di Liga Primer Hingga Bulan Mei 2025!
    subtitle: 
